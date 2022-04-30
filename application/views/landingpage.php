@@ -283,7 +283,7 @@
 			<div class="container">
 				<div class="row text-center ">
 					<h2>Lihat semua aplikasi atau website</h2>
-					<a href="#" class="btn btn-green animated tada infinite" style="animation-duration: 2s;">Toko Aplikasi Saya</a>
+					<a href="<?php echo base_url() ?>portofolio/" class="btn btn-green animated tada infinite" style="animation-duration: 2s;">Toko Aplikasi Saya</a>
 				</div>
 			</div>
 		</section>
@@ -367,7 +367,7 @@
 				<!--Start copyright-->
 				<div class="col-md-6 col-sm-6 col-xs-6">
 					<div class="copyright">
-						<p>Copyright © 2021 All Rights reserved by: Muhammad Hafif Al Busyro</a>
+						<p>Copyright © 2022 All Rights reserved by: Muhammad Hafif Al Busyro</a>
 						</p>
 					</div>
 				</div>
