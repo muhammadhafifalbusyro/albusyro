@@ -23,7 +23,10 @@ defined('BASEPATH') or exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+//development
 $config['base_url'] = 'http://localhost:8888/albusyro/';
+//production
+// $config['base_url'] = 'https://albusyro.com';
 
 /*
 |--------------------------------------------------------------------------

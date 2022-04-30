@@ -132,7 +132,7 @@
 													<p>Pendidikan saya berlatar belakang IT, saya mengambil jurusan pemrograman di PONDOK IT YOGYAKARTA. Saya telah menyelesaikan pendidikan di PONDOK IT YOGYAKARTA pada tahun 2021.</p>
 													<p>Kecintaan saya pada dunia pendidikan dan dunia IT begitu sangat besar, sehingga saat ini saya fokus pada dua bidang tersebut. Yang saya lakukan kini adalah bagaimana membangun sistem pendidikan di Indonesia menjadi lebih baik lagi, saya bekerja sebagai kepala pendidikan di PONDOK IT YOGYAKARTA untuk membangun sistem pendidikan yang ada di pondok tersebut, dan saat ini saya juga bekerja sebagai software developer di PT. USSUNNAH FOUNDATION.</p>
 													<p>Gak cukup rasanya kalau kita kenalan hanya dengan dua atau tiga paragraf tulisan. Silakan teman-teman bisa lihat CV saya serta ikuti akun sosial media saya :)</p>
-													<a href="https://drive.google.com/file/d/1hKggHZOH-jLqqXB1OK9uDox8Z49HDSB0/view?usp=sharing" class="btn btn-green2">Lihat CV</a>
+													<a href="https://drive.google.com/file/d/1p7_Xuo-n0xwl-V35b8JAS8aciW3YbjGY/view?usp=sharing" class="btn btn-green2">Lihat CV</a>
 												</div>
 
 												<div class="col-md-4 col-sm-6 col-xs-6">

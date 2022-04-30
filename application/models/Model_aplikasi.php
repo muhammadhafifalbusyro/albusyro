@@ -101,6 +101,7 @@ class Model_aplikasi extends CI_Model
                 "imgUrl" => base_url('assets/images/works/img13.png'),
                 "link" => "https://albusyro.com/"
             ],
+            
 
         ];
         return $data;

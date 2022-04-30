@@ -6,7 +6,7 @@ class Model_blog extends CI_Model
     {
         $data = [
             [
-                "id" => 0,
+                "id" => 'teknologi-dalam-dunia-pendidikan',
                 "img_url" => 'https://1.bp.blogspot.com/-1g2RiOTnnmE/XYy8CZSi1hI/AAAAAAAAAAY/4lpj5LplKswhLgiXA74zxf6UhnZ2c8v-ACLcBGAsYHQ/s1600/pendidikan.jpg',
                 "date" => '22/07/2021',
                 "judul" => 'Teknologi Dalam Dunia Pendidikan',
@@ -131,7 +131,7 @@ class Model_blog extends CI_Model
                 '
             ],
             [
-                "id" => 1,
+                "id" => 'melihat-kebenaran-yang-lain',
                 "img_url" => 'https://bimamedia-gurusiana.ap-south-1.linodeobjects.com/9efb1a59d7b58e69996cf0e32cb71098/2020/10/17/l-images-38520201017165529.jpeg',
                 "date" => '24/07/2021',
                 "judul" => 'Melihat Kebenaran Yang Lain',
@@ -143,6 +143,84 @@ class Model_blog extends CI_Model
                     <p>
                     Setiap manusia punya kisah hidupnya masing-masing sehingga mereka punya persepsi suatu kebenaran dari pengalaman hidupnya. makanya perbedaan pandangan akan suatu hal itu tidaklah salah. Namun, yang jadi masalah adalah ketika kita selalu menanggap diri kita pribadi yang paling benar dan orang lain salah. Maka dari itu perluaslah kapasitas pengetahuan diri kita masing-masing, sehingga kita pun dapat memahami suatu kebenaran lain dari persepsi yang berbeda.
                     </p>
+                    '
+            ],
+            [
+                "id" => 'imam-ahmad-bin-hanbal-dan-penjual-roti-yang-dipertemukan-lewat-istigfar',
+                "img_url" => 'https://islami.co/wp-content/uploads/2018/09/sufi-ilustrasi.jpg',
+                "date" => '06/10/2021',
+                "judul" => 'Imam Ahmad bin Hanbal dan Penjual Roti yang Dipertemukan Lewat Istighfar',
+                "isi" =>
+                '
+                    <p>
+                    Imam Ahmad bin Hanbal merupakan salah satu dari murid Imam Syafi’i. Beliau juga dikenal sebagai Imam Hanbali. Di masa akhir hidupnya, beliau pernah bercerita, cerita tersebut terekam dalam Manaqib Imam Ahmad bin Hanbal ketika beliau menuju Bashrah. Di sana, beliau mengalami sebuah peristiwa yang unik dan menunjukkan kuasa Allah atas doa hamba-Nya.
+                    </p>
+                    <p>
+                    Beliau bercerita “Suatu hari, ketika usia saya sudah menginjak tua, saya tidak tahu mengapa saya ingin sekali menuju ke salah satu kota di Irak, padahal, tidak ada janji dengan orang lain atau hajat sama sekali.”
+                    </p>
+                    <p>
+                    Akhirnya Imam Ahmad bin Hanbal berangkat sendiri menuju kota Bashrah. Beliau meriwayatkan, “Saat tiba di sana waktu Isya’, saya ikut shalat berjama’ah isya’ di masjid, hati saya merasa tenang, tidak lama berselang kemudian tiba-tiba saya ingin istirahat.”
+                    </p>
+                    <p>
+                    Selepas jamaah bubar, Imam Ahmad ingin tidur di masjid, tiba-tiba sang marbot masjid datang menemui Imam Ahmad sambil bertanya, “Kenapa syekh? Anda mau apa di sini?” Marbot masjid itu tidak mengetahui kalau beliau adalah Imam Ahmad, dan Imam Ahmad pun tidak memperkenalkan siapa dirinya.
+                    </p>
+                    <p>
+                    Di Irak, semua orang kenal siapa Imam Ahmad, seorang ulama besar dan ahli hadis, beliau hafal sejuta hadis, sangat shalih dan zuhud. Ketika itu belum ada teknologi kamera atau media sosial seperti saat ini, sehingga orang tidak tahu wajahnya, hanya saja namanya sudah terkenal.
+                    </p>
+                    <p>
+                    Imam Ahmad berkata, “Saya ingin beristirahat, saya musafir.” Marbot pun merespon, “tidak boleh, tidak boleh tidur di dalam masjid!”
+                    </p>
+                    <p>
+                    Imam Ahmad melanjutkan bercerita, “Saya didorong-dorong oleh orang itu disuruh keluar dari masjid. Setelah sampai pelataran, maka dikuncilah pintu masjid. Kemudian saya hendak tidur di teras masjid.” Ketika sudah berbaring di teras masjid, si marbot datang lagi, sembari marah-marah kepada Imam Ahmad, “Mau apa lagi, syekh?” tanya marbot.
+                    </p>
+                    <p>
+                    “Saya mau tidur, saya musafir.” Jawab Imam Ahmad. Lalu marbot berkata, “Di dalam masjid tidak boleh, di teras masjid juga tidak boleh.” Imam Ahmad pun diusir. Beliau bercerita, “Saya didorong-dorong sampai ke jalan.”
+                    </p>
+                    <p>
+                    Di samping masjid, ada penjual roti dan rumah kecil untuk membuat sekaligus menjual roti. Penjual roti ini sedang mengolah adonan roti, sambil melihat kejadian Imam Ahmad  didorong-dorong oleh marbot tadi. Ketika, Imam Ahmad sampai jalanan, penjual roti itu memanggil dari jauh, “Mari syekh, anda boleh menginap di tempat saya, saya punya tempat, meskipun kecil.”
+                    </p>
+                    <p>
+                    “Baik.” Kata Imam Ahmad. Imam Ahmad pun masuk ke rumahnya, duduk di belakang penjual roti yang sedang membuat roti dengan tidak memperkenalkan siapa dirinya, beliau hanya mengaku sebagai musafir.
+                    </p>
+                    <p>
+                    Penjual roti ini memiliki perilaku yang bisa dibilang unik. Jika Imam Ahmad mengajaknya berbicara, maka ia akan menjawab. Kalau tidak, ia terus membuat adonan roti sambil melafalkan istighfar, Astaghfirullah. Saat meletakkan garam, ia mengucap istighfar. Ketika memecahkan telur, ia istighfar, mencampur gandum, istighfar lagi, ia selalu mengucap istighfar.
+                    </p>
+                    <p>
+                    Imam Ahmad memperhatikan terus. Lalu beliau bertanya, “Sudah berapa lama engkau melakukan ini?” Penjual roti menjawab, “Sudah lama sekali syekh, saya menjual roti sudah 30 tahun, jadi semenjak itu saya lakukan.”
+                    </p>
+                    <p>
+                    Imam Ahmad kembali bertanya, “Lalu, apa hasil dari perbuatan ini?”
+                    </p>
+                    <p>
+                    Penjual roti menjawab, “Berkah wasilah istighfar, tiada hajat yang saya minta kecuali pasti dikabulkan oleh Allah. Semua yang saya minta langsung Allah kabulkan.” Karena Nabi Muhammad pernah bersabda, “
+                    </p>
+                    <p>
+
+مَنْ أَكْثَرَ مِنْ الِاسْتِغْفَارِ؛ جَعَلَ اللَّهُ لَهُ مِنْ كُلِّ هَمٍّ فَرَجًا، وَمِنْ كُلِّ ضِيقٍ مَخْرَجًا، وَرَزَقَهُ مِنْ حَيْثُ لَا يَحْتَسِبُ                 </p>
+                    <p>
+
+                    “Barang siapa memperbanyak istighfar; niscaya Allah memberikan jalan keluar bagi setiap kesedihannya, kelapangan untuk setiap kesempitannya dan rizki dari arah yang tidak disangka-sangka”
+                    </p>
+                    <p>
+                    Lalu, si penjual roti melanjutkan, “Semua dikabulkan Allah kecuali satu, masih ada satu hajat saya yang belum Allah kabukan.” Imam Ahmad penasaran, dan kemudian beliau bertanya, Apa itu?”
+                    </p>
+                    <p>
+                    Penjual roti itu menjawab, “Saya minta kepada Allah supaya dipertemukan dengan Imam Ahmad bin Hanbal.”
+                    </p>
+                    <p>
+                    Seketika, ketika namanya disebut, Imam Ahmad bertakbir, “Allahu Akbar! Allah telah mendatangkan saya jauh-jauh dari Baghdad pergi ke Bashrah dan bahkan sampai didorong-dorong oleh marbot masjid itu sampai ke jalanan karena istighfarmu.”
+                    </p>
+                    <p>
+                    Penjual roti pun terperanjat, memuji Allah dengan penuh rasa syukur, ternyata yang di depannya adalah Imam Ahmad bin Hanbal.
+                    </p>
+                    <p>Sumber: 
+                <a href="https://islami.co/imam-ahmad-bin-hanbal-dan-penjual-roti-yang-dipertemukan-lewat-istighfar/">Link artikel<a></p>
+                
+                   
+					<div class="play-video">
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/ikuU7JOKIfk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+					</div>
+			
                     '
             ]
 
