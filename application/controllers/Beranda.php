@@ -27,7 +27,8 @@ class Beranda extends CI_Controller
 	}
 	public function index()
 	{
-		$data["apps"] = $this->model_aplikasi->get_data_aplikasi();
+		$app=array_reverse($this->model_aplikasi->get_data_aplikasi());
+		$data["apps"] =array_splice($app, 0, 12);
 		$blog = array_reverse($this->model_blog->get_data_blog());
 		$data['blogs'] = array_splice($blog, 0, 3);
 
