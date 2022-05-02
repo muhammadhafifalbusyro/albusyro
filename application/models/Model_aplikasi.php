@@ -101,6 +101,22 @@ class Model_aplikasi extends CI_Model
                 "imgUrl" => base_url('assets/images/works/img13.png'),
                 "link" => "https://albusyro.com/"
             ],
+            [
+                "id" => 12,
+                "nama" => "BUMA DPA",
+                "jenis" => "aplikasi",
+                "isi" => "BUMA DPA adalah aplikasi sistem informasi manajemen PT Bumi Makmur Mandiri Utama",
+                "imgUrl" => base_url('assets/images/works/img25.png'),
+                "link" => "https://play.google.com/store/apps/details?id=com.bukitmakmur.op"
+            ],
+            [
+                "id" => 13,
+                "nama" => "Hokben App",
+                "jenis" => "aplikasi",
+                "isi" => "Hokben App adalah aplikasi pemesanan makanan PT HOKBEN",
+                "imgUrl" => base_url('assets/images/works/img26.png'),
+                "link" => "https://play.google.com/store/apps/details?id=id.co.hokben.revamp"
+            ],
             
 
         ];
